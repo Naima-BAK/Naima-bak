@@ -6,11 +6,5 @@
 - 🌱# I’m currently learning [react](#) js and software engineering  with ALX 
 
 
-
-
-
-
-
-
-![physics](https://user-images.githubusercontent.com/100168104/235467736-661d78d5-9282-46a9-a939-742dc1678e2d.png)
+![physics (1)](https://user-images.githubusercontent.com/100168104/235468503-6a29e612-4a66-4a7e-b453-57cfb0b8caa3.png)
 
